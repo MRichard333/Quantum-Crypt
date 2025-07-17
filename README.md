@@ -19,9 +19,7 @@ Quantum Crypt provides secure file encryption and decryption using AES-256-GCM f
 
 Download the app for your platform:
 
-*   [Download for Windows](https://github.com/MRichard333/Quantum-Encrypto/releases/latest)
-*   [Download for macOS](https://github.com/MRichard333/Quantum-Encrypto/releases/latest)
-*   [Download for Linux](https://github.com/MRichard333/Quantum-Encrypto/releases/latest)
+https://github.com/MRichard333/Quantum-Crypt/releases/tag/Cybersecurity
 
 ## Usage
 
